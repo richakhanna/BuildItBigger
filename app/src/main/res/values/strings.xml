@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Build it Bigger</string>
+    <string name="instructions">Press the button for a delicious joke!</string>
+    <string name="button_text">Tell Joke</string>
+    <string name="action_settings">Settings</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <!--<string name="joke_api_endpoint" translatable="false">http://192.168.0.113:8080/_ah/api/</string>-->
+    <string name="joke_api_endpoint" translatable="false">https://builditbigger-backend.appspot.com/_ah/api/</string>
+    <string name="internet_con_failed">Please check your internet connection and try again later.</string>
+</resources>
