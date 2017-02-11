@@ -22,7 +22,7 @@ public class JokeAsyncTaskAndroidTest extends AndroidTestCase implements FetchJo
     }
 
     public void testJokeFetchedIsNotEmpty() {
-        fetchJokeAsyncTask.execute("Richa");
+        fetchJokeAsyncTask.execute();
         waiter.block();
     }
 
